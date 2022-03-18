@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "fdc4273bf2cda5c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ae4ee2515e28cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rings.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e1c9752bff2e997d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fields.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f87683ef4ee6473b",
+    "type": "split",
+    "children": [
+      {
+        "id": "29e6e17e15a22342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d7a0f791d391cb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "027f8b3a229749b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8268df127143f8f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "037f967d2318b520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interrogating the Legitimacy of Extreme Wealth - A Moral Perspective.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7be877eb84e4cc5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e15135cdc8e07677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPv4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.0078125,
+    "collapsed": true
+  },
+  "right": {
+    "id": "757e115d0f46ac22",
+    "type": "split",
+    "children": [
+      {
+        "id": "c95a4ddb175761be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a7ad93cb717a5a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5bf18bb81d02a133",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198.2008819580078,
+    "collapsed": true
+  },
+  "active": "12ae4ee2515e28cc",
+  "lastOpenFiles": [
+    "Rings.md",
+    "Fields.md",
+    "Just and Unjust Wars.md",
+    "Global Economic Justice.md",
+    "Second Order Differential Equation.md",
+    "Existence and Uniqueness Theorems.md",
+    "Linear Algebra.md",
+    "Untitled 1.md",
+    "Leonhard Euler.md",
+    "Pierre de Fermat.md"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#book",
+      "color": {
+        "a": 1,
+        "rgb": 7543484
+      }
+    },
+    {
+      "query": "tag:#article",
+      "color": {
+        "a": 1,
+        "rgb": 55807
+      }
+    },
+    {
+      "query": "tag:#textbook",
+      "color": {
+        "a": 1,
+        "rgb": 11731024
+      }
+    },
+    {
+      "query": "tag:#ScholarlyArticle",
+      "color": {
+        "a": 1,
+        "rgb": 14178307
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.51540187409265,
+  "lineSizeMultiplier": 2.30267731741573,
+  "collapse-forces": false,
+  "centerStrength": 0.499930939226519,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 500,
+  "scale": 0.19554562900184136,
+  "close": true
+}

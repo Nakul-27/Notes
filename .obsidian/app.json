@@ -1,0 +1,20 @@
+{
+  "autoPairBrackets": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "vimMode": true,
+  "foldHeading": true,
+  "rightToLeft": false,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
